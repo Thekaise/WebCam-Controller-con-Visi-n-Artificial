@@ -6,3 +6,5 @@ Ros Kinetic
 Ubuntu 16.04
 ardrone_autonomy
 Tum_simulator
+Dentro de la carpeta ardrone/src/ se encuentra el script main.cpp que es
+controlador de la cámara web
